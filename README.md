@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on https://scrim.app
+- ⚡ I’m currently working on https://scrim.app
 
 <!--
 **adrianlee/adrianlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
